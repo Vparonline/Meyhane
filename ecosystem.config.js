@@ -1,7 +1,7 @@
 module.exports = {
   apps: [
     {
-      name: "central",
+      name: "Internal",
       script: 'elchavopy.js',
       watch: false,
       exec_mode: "cluster",
@@ -9,7 +9,7 @@ module.exports = {
       cwd: "./src/Internal"
     },
     {
-      name: "gr1",
+      name: "guard1",
       script: 'elchavopy.js',
       watch: false,
       exec_mode: "cluster",
@@ -17,7 +17,7 @@ module.exports = {
       cwd: "./src/guardii1"
     },
     {
-      name: "gr2",
+      name: "guard2",
       script: 'elchavopy.js',
       watch: false,
       exec_mode: "cluster",
@@ -25,7 +25,7 @@ module.exports = {
       cwd: "./src/guardii2"
     },
     {
-      name: "gr3",
+      name: "guard3",
       script: 'elchavopy.js',
       watch: false,
       exec_mode: "cluster",
@@ -33,7 +33,7 @@ module.exports = {
       cwd: "./src/guardii3"
     },
     {
-      name: "registry",
+      name: "kayıtyapıobu",
       script: 'winnie.js',
       watch: false,
       exec_mode: "cluster",
@@ -41,7 +41,7 @@ module.exports = {
       cwd: "./src/kayıtullah"
     },
     {
-      name: "moderator",
+      name: "modullah",
       script: 'winnie.js',
       watch: false,
       exec_mode: "cluster",
