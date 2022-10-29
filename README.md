@@ -1,6 +1,5 @@
-# Meyhane
-Meyhanede kullandığımız v13 tüm altyapıları bu repo altında atıcam
-Ufak tefek hataları vardır düzeltirsiniz uğraşılacak bir şey yok 1,2 güne paylaşırım o ara star falan atarsınız işte hadi ii gclr
-# O webli stat fln içinde işte önceki repoda demiştim ztn
-Neyse star atın da paylaşalım, botculuğu bırakıyoz 
-Winnielchavo fln hikaye arkdşlr kimseye güvenmeyn
+# Gece Hepsini Atmış Olucam Dc'ye koydum zaten
+3,5 çapulcu bot için ara bozabilecek hale geldiyse bunlardan bir sik olmayacağı net belliymiş
+Daha Bol bol böyle para bayılırsınız :D
+# Web Panelide İçinde Güncel Olan Botların Aynısı Tek Web Design Farklı O Kadar
+Yeniden Çapulcu Dostluğunuzu Sikeyim 5 Kuruş Etmez İnsanlar :D
